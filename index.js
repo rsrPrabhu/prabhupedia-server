@@ -55,7 +55,7 @@ app.use("/user", userRoutes);
 app.use("/post", postRoutes);
 
 /* Mongoose setup  */
-const PORT = process.env.PORT || 6001;
+const PORT = process.env.PORT || 3001;
 // const MO_URL = 'mongodb://127.0.0.1:27017/sociopedia' || process.env.MO_URL;
 const MO_URL = 'mongodb+srv://prabhupedia:dummypassword@cluster0.f6te6s3.mongodb.net/?retryWrites=true&w=majority' ;
 mongoose.connect(MO_URL, {
