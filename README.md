@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About Pabhupedia Project
 
-This is a banking project including transaction with external providers .The technologies involved and Mongo DB.
+This is a banking project including transaction with external providers .The technologies involved Node JS and Mongo DB.
 
 Here's why:
 * Provides the API end points for [![Prabhupedia Client]][https://github.com/rsrPrabhu/prabhupedia-client] 
@@ -37,21 +37,13 @@ Here's why:
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![React][React.js]][React-url]  
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
+* [![Node][Node]][Node-url]
 * [![React][React.js]][React-url]  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,7 +85,9 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
- 
+
+[Node]: https://img.shields.io/badge/ShadeCn-000000?style=for-the-badge
+[Node-url]: https://ui.shadcn.com/docs/installation
 [ShadeCn]: https://img.shields.io/badge/ShadeCn-000000?style=for-the-badge
 [ShadeCn-url]: https://ui.shadcn.com/docs/installation
 [NextAuth]: https://img.shields.io/badge/NextAuth-000000?style=for-the-badge
