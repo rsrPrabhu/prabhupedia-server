@@ -38,7 +38,7 @@ Here's why:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Mongo DB][Mongo_DB]][MongoDB-url]
+* [![Mongo DB][Mongo_DB]][MongoDB_url]
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -121,7 +121,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Tailwind]: https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/docs/installation
 [Mongo_DB]: https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white
-[MongoDB-url]: https://www.mongodb.com/
+[MongoDB_url]: https://www.mongodb.com/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
