@@ -86,8 +86,8 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Node]: https://img.shields.io/badge/ShadeCn-000000?style=for-the-badge
-[Node-url]: https://ui.shadcn.com/docs/installation
+[Node]: https://img.shields.io/badge/Node-000000?style=for-the-badge
+[Node-url]: https://nodejs.org/en/
 [ShadeCn]: https://img.shields.io/badge/ShadeCn-000000?style=for-the-badge
 [ShadeCn-url]: https://ui.shadcn.com/docs/installation
 [NextAuth]: https://img.shields.io/badge/NextAuth-000000?style=for-the-badge
