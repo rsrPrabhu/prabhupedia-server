@@ -65,7 +65,7 @@ _Below is an example of how you can instruct your audience on installing and set
  
 1. Clone the repo
    ```sh
-   git clone https://github.com/rsrPrabhu/prisma.git
+   git clone https://github.com/rsrPrabhu/prabhupedia-server.git
    ```
 2. Install NPM packages
    ```sh
@@ -75,7 +75,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+<!-- ## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -85,7 +85,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Prisma](https://www.prisma.io/)
 * [React Js](https://react.dev/learn/describing-the-ui) 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
 
 
 
