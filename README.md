@@ -1,12 +1,9 @@
-# Prabhupedia Server
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About PrabhuPedia Project</a>
+      <a href="#about-the-project">About Prisma Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -19,28 +16,28 @@
       </ul>
     </li> 
   </ol>
-</details> 
+</details>
+
+
 
 <!-- ABOUT THE PROJECT -->
-## About Pabhupedia Project
+## About The Project
 
-This is a banking project including transaction with external providers .The technologies involved and Mongo DB.
+This Project is a demo project with technologies involved  Next JS 13 , NextJS API , Next Auth and Mongo DB
 
 Here's why:
-* Provides the API end points for [PrabhuPedia Client](https://github.com/rsrPrabhu/prabhupedia-client)
-* Database table structure with Mongoose
-* Passwords are encrypted using Bcrypt encrypter
+* Get to know the Prisma 
+* Database table structure with Prisma 
+* Table relationship by using Prisma
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
-
 
 ### Built With
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Mongo_DB][Mongo_DB]][Mongo_DB]
+* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]  
- 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +63,7 @@ _Below is an example of how you can instruct your audience on installing and set
  
 1. Clone the repo
    ```sh
-   git clone https://github.com/rsrPrabhu/prabhupedia-server.git
+   git clone https://github.com/rsrPrabhu/prisma.git
    ```
 2. Install NPM packages
    ```sh
@@ -76,7 +73,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 <!-- ACKNOWLEDGMENTS -->
-<!-- ## Acknowledgments
+## Acknowledgments
 
 Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
@@ -86,7 +83,7 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Prisma](https://www.prisma.io/)
 * [React Js](https://react.dev/learn/describing-the-ui) 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>  -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -104,27 +101,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-
-[NodeJs]: https://img.shields.io/badge/Node JS-000000?style=for-the-badge
-[NodeJs-url]: https://nodejs.org/en/
-[ShadeCn]: https://img.shields.io/badge/ShadeCn-000000?style=for-the-badge
-[ShadeCn-url]: https://ui.shadcn.com/docs/installation
-[NextAuth]: https://img.shields.io/badge/NextAuth-000000?style=for-the-badge
-[NextAuth-url]: https://next-auth.js.org/
-[Bcrypt]: https://img.shields.io/badge/Bcrypt-000000?style=for-the-badge
-[Bcrypt-url]: https://next-auth.js.org/
-[Zod]: https://img.shields.io/badge/zod-000000?style=for-the-badge
-[Zod-url]: https://next-auth.js.org/
-[Prisma]: https://img.shields.io/badge/prisma-000000?style=for-the-badge&logo=prisma&logoColor=white
-[Prisma-url]: https://tailwindcss.com/docs/installation
-[Angular]: https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=red
-[Angular-url]: https://tailwindcss.com/docs/installation
-[Tailwind]: https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white
-[Tailwind-url]: https://tailwindcss.com/docs/installation
-[Mongo_DB]: https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white
-[MongoDB_url]: https://www.mongodb.com/
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/  
-  
+ 
+
+
+
