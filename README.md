@@ -44,7 +44,8 @@ Here's why:
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Node JS][Node]][Node-url]
-* [![Mongo DB][Mongo_DB]][MongoDB-url]  
+* [![Mongo DB][Mongo_DB]][MongoDB-url]
+* [![Bcrypt][Bcrypt]][Bcrypt-url]  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
