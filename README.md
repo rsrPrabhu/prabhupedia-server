@@ -27,9 +27,9 @@
 This is a banking project including transaction with external providers .The technologies involved and Mongo DB.
 
 Here's why:
-* Provides the API end points for [![Prabhupedia Client]][https://github.com/rsrPrabhu/prabhupedia-client] 
+* Provides the API end points for [PrabhuPedia Client](https://github.com/rsrPrabhu/prabhupedia-client)
 * Database table structure with Mongoose
-* Passwords are encrypted using ##Bcrypt
+* Passwords are encrypted using Bcrypt encrypter
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
