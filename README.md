@@ -37,9 +37,8 @@ Here's why:
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Node][Node.js]][Node-url]
-* [![Bcrypt][Bcrypy]][[Next-url](https://www.npmjs.com/package/bcrypt)]
-* [![Mongo DB][Mongo DB]][https://www.mongodb.com/]
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
