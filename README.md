@@ -1,9 +1,12 @@
+# Prabhupedia Server
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About Prisma Project</a>
+      <a href="#about-the-project">About PrabhuPedia Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -16,21 +19,20 @@
       </ul>
     </li> 
   </ol>
-</details>
-
-
+</details> 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About Pabhupedia Project
 
-This Project is a demo project with technologies involved  Next JS 13 , NextJS API , Next Auth and Mongo DB
+This is a banking project including transaction with external providers .The technologies involved and Mongo DB.
 
 Here's why:
-* Get to know the Prisma 
-* Database table structure with Prisma 
-* Table relationship by using Prisma
+* Provides the API end points for [![Prabhupedia Client]][https://github.com/rsrPrabhu/prabhupedia-client] 
+* Database table structure with Mongoose
+* Passwords are encrypted using ##Bcrypt
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 
+
 
 ### Built With
 
