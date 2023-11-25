@@ -39,7 +39,7 @@ Here's why:
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Mongo DB][Mongo_DB]][MongoDB-url]
-* [![React][React.js]][React-url]  
+* [![Node Js][NodeJs]][NodeJs-url]  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,6 +104,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
 
+[NodeJs]: https://img.shields.io/badge/Node JS-000000?style=for-the-badge
+[NodeJs-url]: https://nodejs.org/en/
 [ShadeCn]: https://img.shields.io/badge/ShadeCn-000000?style=for-the-badge
 [ShadeCn-url]: https://ui.shadcn.com/docs/installation
 [NextAuth]: https://img.shields.io/badge/NextAuth-000000?style=for-the-badge
